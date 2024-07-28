@@ -31,7 +31,4 @@ Scripts for model evaluation and visualization of results.
 
 Python, TensorFlow, Keras, OpenCV, Albumentations.
 
-## Results 
-
-
 
