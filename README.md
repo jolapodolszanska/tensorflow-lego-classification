@@ -5,8 +5,10 @@ The project focuses on image classification using the MobileNetV2 deep neural ne
 ## Dataset
 Lego Minifigures dataset contains a lot of pictures of various LEGO Minifigures. There are several images in different poses or with different environments for each Minifigure in the dataset. You can use this dataset for the image classification tasks or try to create more interesting things. You can try getting more accurate predictions for the test set. You can find this dataset at Kaggle.
 
-
-
+<img src="output.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
 ## Features
 
 Data Processing: Using the OpenCV library to load and process images, including resizing and color changes.
