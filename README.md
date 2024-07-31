@@ -1,3 +1,6 @@
+**This project is part of the assignments for students in the computer science major in the subject of Artificial Neural Networks and Deep Learning.**
+
+
 # About the project
 
 The project focuses on image classification using the MobileNetV2 deep neural network. It uses image processing and deep learning techniques to recognize and classify different classes of objects in images.
